@@ -1,0 +1,7 @@
+# jupyter notebook
+.ipynb_checkpoints
+Untitled.ipynb
+
+# logs
+*.log
+*.logs
